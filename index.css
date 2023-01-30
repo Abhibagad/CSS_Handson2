@@ -1,0 +1,149 @@
+
+body{
+    border: groove 10px rgb(18, 199, 18);
+    height: 1800px;
+    background-image: url(./photo-1500534314209-a25ddb2bd429.avif);
+    background-size: contain;
+
+}
+.para1{
+    border-radius: 30px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+    width: 350px;
+    height: 90px;
+    text-align: center;
+    top: 40px;
+    left: 40px;
+    padding: 10px;
+    font-size:25px;
+    font-style: italic;
+    z-index:1;
+    position: absolute;
+    padding-top: 20px;
+
+}
+.para2{
+    border-radius: 30px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    top: 50px;
+    right: 650px;
+    padding: 8px 2px 0px 5px;
+    font-size: 25px;
+    font-style: italic;
+    z-index:1;
+    position: absolute;
+    padding-top: 30px;
+
+}
+.para3{
+    border-radius: 30px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+    width: 350px;
+    height: 90px;
+    text-align: center;
+    top: 40px;
+    right: 30px;
+    padding: 10px;
+    font-size:25px;
+    font-style: italic;
+    z-index:1;
+    position: absolute;
+    padding-top: 20px;
+
+}
+
+.circle{
+    
+    width: 350px;
+   height: 350px;
+    border-radius: 50%;
+    color: black;
+    background-color:rgb(16, 167, 129);
+    border: 7px solid rgb(61, 60, 60);
+    left: 70px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+    line-height: 35px;
+    top: 400px;
+    right: 900px; 
+    z-index: 1;
+    text-decoration:underline;
+    position: absolute;
+}
+.form{
+    width: 30%;
+    top: 300px;
+    right: 250px;
+    border: 4px dashed ;
+    background-color: white;
+    color: red;
+    justify-content: center;
+    text-align: center;
+    position:absolute;
+
+}
+.para4{
+    border-radius: 30px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    top: 950px;
+    right: 450px;
+    padding: 8px 2px 0px 5px;
+    font-size: 25px;
+    font-style: italic;
+    z-index:1;
+    position: absolute;
+    padding: 10px;
+    
+}
+
+.flex{
+
+    height: 753px;
+    top: 1050px;
+    display: flex;
+    color:black;
+
+    width: 1305px;
+    z-index: 1;
+    position: absolute;
+    border: 5px solid grey;
+    font-size: 12px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+
+}
+.card{
+
+   
+    color: black;
+    background-color: aqua;
+    border: 2px solid ;
+    border-radius: 22px;
+    
+    padding: 20px;
+    margin: 35px;
+    width: 250px;
+    height: 220px;
+    font-size: 15px;
+    
+
+
+}
+
